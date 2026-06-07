@@ -1,0 +1,36 @@
+package com.company.modelviewer.core.designsystem
+
+import androidx.compose.ui.graphics.Color
+
+val md_theme_light_primary = Color(0xFF004AC6)
+val md_theme_light_onPrimary = Color(0xFFFFFFFF)
+val md_theme_light_primaryContainer = Color(0xFF2563EB)
+val md_theme_light_onPrimaryContainer = Color(0xFFEEEFFF)
+val md_theme_light_secondary = Color(0xFF585F6C)
+val md_theme_light_onSecondary = Color(0xFFFFFFFF)
+val md_theme_light_secondaryContainer = Color(0xFFDCE2F3)
+val md_theme_light_onSecondaryContainer = Color(0xFF5E6572)
+val md_theme_light_tertiary = Color(0xFF006329)
+val md_theme_light_onTertiary = Color(0xFFFFFFFF)
+val md_theme_light_tertiaryContainer = Color(0xFF007F36)
+val md_theme_light_onTertiaryContainer = Color(0xFFC7FFCA)
+val md_theme_light_error = Color(0xFFBA1A1A)
+val md_theme_light_errorContainer = Color(0xFFFFDAD6)
+val md_theme_light_onError = Color(0xFFFFFFFF)
+val md_theme_light_onErrorContainer = Color(0xFF93000A)
+val md_theme_light_background = Color(0xFFF9F9FF)
+val md_theme_light_onBackground = Color(0xFF141B2B)
+val md_theme_light_surface = Color(0xFFF9F9FF)
+val md_theme_light_onSurface = Color(0xFF141B2B)
+val md_theme_light_surfaceVariant = Color(0xFFDCE2F7)
+val md_theme_light_onSurfaceVariant = Color(0xFF434655)
+val md_theme_light_outline = Color(0xFF737686)
+val md_theme_light_inverseOnSurface = Color(0xFFEDF0FF)
+val md_theme_light_inverseSurface = Color(0xFF293040)
+val md_theme_light_inversePrimary = Color(0xFFB4C5FF)
+val md_theme_light_shadow = Color(0xFF000000)
+val md_theme_light_surfaceTint = Color(0xFF0053DB)
+val md_theme_light_outlineVariant = Color(0xFFC3C6D7)
+val md_theme_light_scrim = Color(0xFF000000)
+
+val GridDotColor = Color(0xFF141B2B).copy(alpha = 0.1f) // 10% opacity neutral
